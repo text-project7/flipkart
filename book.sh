@@ -1,11 +1,4 @@
-bdu vidsov vksn
-vbiosh vnko
-vlnado 
-dkjbvj 
-dlkvho ijid
-ihoi
-dhiojvoj vjj
-kjvh
+hello
 good evening
 file updated succesfully
 this is chanekya
